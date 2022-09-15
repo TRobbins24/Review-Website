@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+#background-1 {
+   height: 669px;
+   background-image: url(images/images/aidan-hancock-8RU4OuA6Yug-unsplash.png);
+  background-repeat: no-repeat;
+}
+
+
+nav {
+  background-color: transparent !important;
+}
+
