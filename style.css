@@ -15,4 +15,11 @@ nav li > a:hover {
   background-color: transparent !important;
   color:#10C9C3 !important;
 }
+ 
+img {
+    pointer-events: none;
+}
 
+a {
+  color:black;
+}
